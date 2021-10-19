@@ -1,0 +1,42 @@
+.navbar{
+	width: 100%;
+	height: 70px;
+	background-color: lightgreen;
+}
+
+
+.nav-head{
+	position: absolute;
+	padding: 3px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 10px;
+	color: blue;
+}
+
+span{
+	color: darkblue;
+}
+
+.listhead{
+	width: auto;
+	float: right;
+	display: flex;
+	margin-top: 20px;
+}
+
+.listbody{
+	padding: 15px;
+}
+
+.listbody a{
+	text-align: center;
+	text-decoration: none;
+	font-size: 5px;
+}
+
+.listbody a:hover{
+	color: white
+	transition: 1s;
+}
+a{color: white}
